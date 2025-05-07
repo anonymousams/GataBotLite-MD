@@ -415,7 +415,7 @@ const userDevicesCache = new NodeCache({ stdTTL: 0, checkperiod: 0 });
 const {version} = await fetchLatestBaileysVersion();
 let phoneNumber = global.botNumberCode
 
-const methodCodeQR = process.argv.includes("qr")
+const methodCodeQR = true
 const methodCode = !!phoneNumber || process.argv.includes("code")
 const MethodMobile = process.argv.includes("mobile")
 
