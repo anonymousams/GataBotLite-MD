@@ -1,7 +1,7 @@
 { 
-"name": "GataBotLite-MD",
+"name": "ANONYMOUS",
 "version": "1.4.0", 
-"description": "Super Bot WhatsApp",
+"description": "Bot WhatsApp",
 "main": "index.js",
 "type": "module",
     
@@ -20,7 +20,7 @@
     
 "homepage": "https://github.com/GataNina-Li/GataBotLite-MD",
 "author": {
-"name": "GataNina-Li" }, 
+"name": "ANONYMOUS" }, 
     
 "repository": {
 "type": "git",
